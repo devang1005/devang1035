@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/devangpate70521" target="blank"><img src="https://img.shields.io/twitter/follow/devangpate70521?logo=twitter&style=for-the-badge" alt="devangpate70521" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [devang-portfolio-five.vercel.app](devang-portfolio-five.vercel.app)
+- 👨‍💻 All of my projects are available at [devang]((https://devang-portfolio-five.vercel.app/))
 
 - 💬 Ask me about **react js , node js, mongodb , css, html , bootstrap,js , material ui , mysql**
 
