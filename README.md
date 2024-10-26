@@ -6,7 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/devangpate70521" target="blank"><img src="https://img.shields.io/twitter/follow/devangpate70521?logo=twitter&style=for-the-badge" alt="devangpate70521" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [devang]((https://devang-portfolio-five.vercel.app/))
+- 🔭 I’m currently working on **Talknet**
+
+- 🌱 I’m currently learning **Next js , Websocket , Anguler etc..**
+  
+- 👨‍💻 All of my projects are available at [https://devang-portfolio-five.vercel.app/](https://devang-portfolio-five.vercel.app/)
 
 - 💬 Ask me about **react js , node js, mongodb , css, html , bootstrap,js , material ui , mysql**
 
