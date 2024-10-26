@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devang Patel</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-<img  align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--311381761734186207%2F&psig=AOvVaw1vMiEKpHB6fiqLd4C0o7l0&ust=1730040826340000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKj27K6mrIkDFQAAAAAdAAAAABAV">
+<img  align="right" alt="coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devang1035&label=Profile%20views&color=0e75b6&style=flat" alt="devang1035" /> </p>
 
