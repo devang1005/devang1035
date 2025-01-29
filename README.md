@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/devangpate70521" target="blank"><img src="https://img.shields.io/twitter/follow/devangpate70521?logo=twitter&style=for-the-badge" alt="devangpate70521" /></a> </p>
 
-- 🔭 I’m currently working on **Talknet**
+- 🔭 I’m currently working on **Ml Projects**
 
 - 🌱 I’m currently learning **Machine Learning , Deep learning , Nlp etc..**
 
