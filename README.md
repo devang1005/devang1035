@@ -127,7 +127,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouzag&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=devang1005&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
